@@ -1,0 +1,7 @@
+/.venv/
+/Include/
+/Lib/
+/Scripts/
+/__pycache__/
+*.py[cod]
+/database.db
