@@ -1,0 +1,10 @@
+function her(){
+    return(
+        <img src="images.jpg" alt="logo">
+        <p> coffe.food.good vibe</p>
+        <a herf="home">home</a>
+        <a herf=" about us"> about us</a>
+        <a herf="contact">contact</a>
+        <button type="login"
+    )
+}
